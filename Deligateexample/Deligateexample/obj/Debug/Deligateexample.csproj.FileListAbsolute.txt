@@ -1,0 +1,8 @@
+D:\UST\Day12\Deligateexample\Deligateexample\bin\Debug\Deligateexample.exe.config
+D:\UST\Day12\Deligateexample\Deligateexample\bin\Debug\Deligateexample.exe
+D:\UST\Day12\Deligateexample\Deligateexample\bin\Debug\Deligateexample.pdb
+D:\UST\Day12\Deligateexample\Deligateexample\obj\Debug\Deligateexample.csproj.AssemblyReference.cache
+D:\UST\Day12\Deligateexample\Deligateexample\obj\Debug\Deligateexample.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day12\Deligateexample\Deligateexample\obj\Debug\Deligateexample.csproj.CoreCompileInputs.cache
+D:\UST\Day12\Deligateexample\Deligateexample\obj\Debug\Deligateexample.exe
+D:\UST\Day12\Deligateexample\Deligateexample\obj\Debug\Deligateexample.pdb

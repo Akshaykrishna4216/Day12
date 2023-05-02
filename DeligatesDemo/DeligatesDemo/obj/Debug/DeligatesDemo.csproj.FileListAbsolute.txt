@@ -1,0 +1,8 @@
+D:\UST\Day12\DeligatesDemo\DeligatesDemo\bin\Debug\DeligatesDemo.exe.config
+D:\UST\Day12\DeligatesDemo\DeligatesDemo\bin\Debug\DeligatesDemo.exe
+D:\UST\Day12\DeligatesDemo\DeligatesDemo\bin\Debug\DeligatesDemo.pdb
+D:\UST\Day12\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.csproj.AssemblyReference.cache
+D:\UST\Day12\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day12\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.csproj.CoreCompileInputs.cache
+D:\UST\Day12\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.exe
+D:\UST\Day12\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.pdb
